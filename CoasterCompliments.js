@@ -2,7 +2,7 @@
 
 // set minimum waiting time between compliments in seconds
 var timer = 300;
-// set the inverse probability of a compliment occuring every tick ("1 compliment per invProb")
+// set the inverse probability of a compliment occuring every tick ("1 compliment per invProb per tick")
 var invProb = 4000;
 // set the increase in guests that leads to a compliment
 var peepCountIncrement = 100;
